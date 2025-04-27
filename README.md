@@ -2,6 +2,9 @@
 
 A lightweight AI-powered assistant that can process documents, answer questions, and act autonomously using various tools.
 
+![image](https://github.com/user-attachments/assets/3e866c54-15ad-4ba1-a36a-99c3341e9d7f)
+
+
 ## Features
 
 - Document Processing (PDF & TXT)
